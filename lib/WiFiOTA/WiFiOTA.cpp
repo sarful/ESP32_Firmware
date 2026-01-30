@@ -8,7 +8,7 @@
 
 // Default OTA firmware URL
 static const char* DEFAULT_OTA_URL = 
-"https://raw.githubusercontent.com/USERNAME/REPO/main/firmware.bin";
+"https://raw.githubusercontent.com/sarful/ESP32_Firmware/main/.pio/build/esp32dev/firmware.bin";
 
 // Blink settings
 static int blinkDelay = 1000; // Default: slow blink

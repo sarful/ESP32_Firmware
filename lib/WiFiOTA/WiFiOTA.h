@@ -13,7 +13,6 @@ private:
     const char* otaURL;
     unsigned long lastCheck;
     void otaUpdate();
-    void blinkLED();
 };
 
 #endif

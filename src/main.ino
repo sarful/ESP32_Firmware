@@ -17,5 +17,8 @@ void loop() {
 
   // Blink the onboard LED
   digitalWrite(LED_PIN, HIGH);   // Turn the LED on
+  delay(900); 
+  digitalWrite(LED_PIN,LOW); 
+  delay(900); 
   
 }
